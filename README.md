@@ -1,6 +1,7 @@
 # SQL Data Integrity Checks ✅
 
-A collection of **SQL scripts** to validate and monitor **data quality & consistency** across relational databases (MySQL, PostgreSQL, etc.).
+A collection of **SQL scripts** to validate and monitor **data quality & consistency** across relational databases.  
+Supports **MySQL** and **PostgreSQL** (with minor syntax differences).
 
 ## Features
 - 🔍 Detect NULL values in critical columns  
